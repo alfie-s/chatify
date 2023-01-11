@@ -2,7 +2,7 @@
 
 A web chat app that you can talk to other users who are signed in. You can also create group chats and admins can remove users from group chats.
 
-## This app was created using MongoDB, Expressjs, Reactjs, Nodejs, Chakra UI for css components and Socket IO for real time messaging(although it does not seem to work on the deployed site if you try to open two browser windows on the same computer).
+### This app was created using MongoDB, Expressjs, Reactjs, Nodejs, Chakra UI for css components and Socket IO for real time messaging(although it does not seem to work on the deployed site if you try to open two browser windows on the same computer).
 
 # Live deployment
 
